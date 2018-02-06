@@ -20,7 +20,7 @@
 
 0.13-Completed
 
-1.0-looking for
+1.0-Completed
 
 1.1jalpha-Completed
 

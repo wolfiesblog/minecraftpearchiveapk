@@ -3,7 +3,7 @@
 
 0.2-looking for
 
-0.3-Completed
+0.3-looking for
 
 0.4-looking for 
 
@@ -14,6 +14,10 @@
 0.7-looking for
 
 0.8-looking for
+
+0.9-looking for
+
+0.13-Completed
 
 1.0-looking for
 

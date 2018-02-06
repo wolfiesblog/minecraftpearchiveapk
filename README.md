@@ -1,3 +1,4 @@
+
 # Versions
 0.1-looking for
 
@@ -38,6 +39,8 @@
 1.8-looking for
 
 1.9-looking for
+
+2.0-Completed
 
 2.1alpha1-looking for
 

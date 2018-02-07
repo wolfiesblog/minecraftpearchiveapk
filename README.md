@@ -24,7 +24,7 @@
 
 1.1jalpha-Completed
 
-1.2-looking for
+1.2-Completed
 
 1.3-looking for
 

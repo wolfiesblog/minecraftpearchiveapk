@@ -1,6 +1,6 @@
 
 # Versions
-0.1-looking for
+0.1-Unsupported
 
 0.2-looking for
 

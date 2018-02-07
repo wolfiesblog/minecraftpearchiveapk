@@ -18,15 +18,13 @@
 
 0.9-looking for
 
-0.13-Completed
-
 1.0-Completed
 
 1.1jalpha-Completed
 
 1.2-Completed
 
-1.3-looking for
+1.3-Completed
 
 1.4-looking for
 
